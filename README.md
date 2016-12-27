@@ -26,7 +26,7 @@ If you do not have setuptools, clone repo from [Source], unzip it and run:
 Usage
 =====
 
-see `example.py`
+see [example.py]
 
 API Documentation
 =================
@@ -62,3 +62,4 @@ limitations under the License.
 [Official Prestashop Documentation]: http://doc.prestashop.com/display/PS16/Using+the+REST+webservice
 [Using the REST webservice]: http://doc.prestashop.com/display/PS16/Using+the+REST+webservice
 [Source]: https://github.com/savaskoc/prestashop_api
+[example.py]: example.py
