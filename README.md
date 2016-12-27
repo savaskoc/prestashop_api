@@ -59,7 +59,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 
-[Official Prestashop Documentation]: http://doc.prestashop.com/display/PS16/Using+the+REST+webservice
-[Using the REST webservice]: http://doc.prestashop.com/display/PS16/Using+the+REST+webservice
+[Official Prestashop Documentation]: http://doc.prestashop.com/display/PS16/Using+the+PrestaShop+Web+Service
+[Using the REST webservice]: http://doc.prestashop.com/display/PS16/Using+the+PrestaShop+Web+Service
 [Source]: https://github.com/savaskoc/prestashop_api
 [example.py]: example.py
