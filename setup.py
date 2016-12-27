@@ -10,7 +10,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='prestashop_api',
-    version='1.0.0b1',
+    version='0.0.1b1',
 
     description='Prestashop api wrapper for python',
     long_description=long_description,

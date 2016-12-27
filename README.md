@@ -1,5 +1,6 @@
 prestashop_api
 ==============
+[![PyPI version](https://badge.fury.io/py/prestashop_api.svg)](https://badge.fury.io/py/prestashop_api)
 
 prestashop_api is a library for Python 2 and 3 to interact with the PrestaShop's Web Service API.
 
